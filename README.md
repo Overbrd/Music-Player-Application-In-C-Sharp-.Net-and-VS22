@@ -1,14 +1,11 @@
-# simple-music-player-app-in-c-sharp
-This is a Simple Music Player App created in Microsoft Visual Studio using C Sharp (C#) programming language. 
-This app can select multiple songs and play songs too.
-Feel free to use for educational purpose.
+# MP3 Player written in C#
+This is a Simple Music Player App created in Microsoft Visual Studio using C Sharp (C#) programming language, .Net Framework 4.5.2, and Visual Studio 2022. 
+When using this app you can select one or multiple songs, then once selected the songs autoplay.
 
-![Music Player App Design](https://3.bp.blogspot.com/-82Ghlf7fbjE/W208w16D4YI/AAAAAAAADQo/F6UBwAiiiConJw-pKJW6-mFbZcopLs7bgCLcBGAs/s640/Simple%2BMusic%2BPlayer%2BApp%2Bin%2BC%2BSharp%2BProgramming%2BLanguage.PNG)
+![music-app](https://user-images.githubusercontent.com/10948817/196678132-ac9ee760-58da-4225-a0c3-2ff84754ceb6.jpg)
 
-## YouTube Tutorial 
-Link: https://www.youtube.com/watch?v=wjmU28ukjwA
+Notes:
 
-## Detail Blog Post
-Link: https://vijaythapa.blogspot.com/2018/08/create-music-player-app-in-25-minutes.html
+Player Controllers include Select Song(s), Start, Stop, Pause, Next Track, Last Track, Slider to choose file location, and Volume Control.
 
-For More, Contact Me at hi@vijaythapa.com
+
